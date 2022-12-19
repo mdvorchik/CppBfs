@@ -6,9 +6,9 @@
 #include <vector>
 #include <deque>
 
-#include "parlay/parallel.h"
-#include "parlay/primitives.h"
-#include "parlay/sequence.h"
+#include "../parlay/parallel.h"
+#include "../parlay/primitives.h"
+#include "../parlay/sequence.h"
 #include "graph.h"
 
 using namespace std;

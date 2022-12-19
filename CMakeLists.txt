@@ -3,4 +3,4 @@ project(CppBfs)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(CppBfs main.cpp bfs.h graph.h)
+add_executable(CppBfs src/main.cpp src/bfs.h src/graph.h)
